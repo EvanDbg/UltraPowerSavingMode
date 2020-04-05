@@ -1,80 +1,80 @@
 /*
     UltraPowerSavingMode
-    Language: English
-    Translated by @prasadev_
-    Date: 03 April 2020
+    Language: Chinese
+    Translated by @yang_harapeko
+    Date: 05 April 2020
 */
 
-"TWEAK_ENABLED" = "Tweak Enabled";
-"ENTER_ULTRAPOWERSAVINGMODE" = "Enter UltraPowerSavingMode Now";
+"TWEAK_ENABLED" = "启用插件";
+"ENTER_ULTRAPOWERSAVINGMODE" = "立即进入超级省电模式";
 
-"QUICK_INSTRUCTION" = "Quick Instruction";
-"QUICK_INSTRUCTION_DESCRIPTION" = "Information about how to use the tweak in general.";
-"HOW_TO_USE" = "How to use?";
+"QUICK_INSTRUCTION" = "快速指导";
+"QUICK_INSTRUCTION_DESCRIPTION" = "关于使用本插件的一些信息";
+"HOW_TO_USE" = "如何使用？";
 
-"QUICK_STATS" = "Quick Stats";
-"QUICK_STATS_DESCRIPTION" = "Show quick glimpse of useful information while inside ultra power saving mode.";
-"QUICK_STATS_ENABLED" = "Quick Stats Enabled";
-"QUICK_STATS_OPTION" = "Quick Stats Options";
-"QUICK_STATS_INSTRUCTION" = "Instructions";
+"QUICK_STATS" = "快速统计";
+"QUICK_STATS_DESCRIPTION" = "在超级省电模式下，快速查看有用的信息。";
+"QUICK_STATS_ENABLED" = "开启快速统计";
+"QUICK_STATS_OPTION" = "快速统计选项";
+"QUICK_STATS_INSTRUCTION" = "使用说明";
 
-"TWEAK_MANAGER" = "Tweak Manager";
-"TWEAK_MANAGER_DESCRIPTION" = "Selectively disable unused tweaks (preserve battery life) when entering ultra power saving mode.";
-"TWEAK_MANAGER_ENABLED" = "Tweak Manager Enabled";
-"TWEAK_MANAGER_SELECT_TWEAKS" = "Select Tweaks";
+"TWEAK_MANAGER" = "插件管理";
+"TWEAK_MANAGER_DESCRIPTION" = "进入超级省电模式时，有选择地禁用插件（以延长电池寿命）。";
+"TWEAK_MANAGER_ENABLED" = "开启插件管理";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "选择插件";
 
-"SMART_BATTERY_OPTIMIZER" = "Smart Battery Optimizer";
-"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "Automatically enter ultra power saving mode based on certain device conditions.";
-"SMART_BATTERY_OPTIMIZER_ENABLED" = "Battery Optimizer Enabled";
-"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "Configure Options";
+"SMART_BATTERY_OPTIMIZER" = "智能电池优化";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "根据某些条件自动进入超级省电模式。";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "开启智能电池优化";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "设置选项";
 
-"AUTOMATIC_TURN_ON" = "Automatic Turn On";
-"AUTOMATIC_TURN_ON_DESCRIPTION" = "Automatically turn the device to normal state when current battery is greater than the battery level you set. This will only work if you enter power saving mode manually (not with smart battery optimizer).";
-"AUTOMATIC_TURN_ON_ENABLED" = "Use Automatic Turn On";
-"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Battery Level";
+"AUTOMATIC_TURN_ON" = "自动开启";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "当电池电量超过您设置的电池电量时，自动将设备设置为正常状态。仅当您手动进入省电模式时才有效（不适用于智能电池优化）。";
+"AUTOMATIC_TURN_ON_ENABLED" = "自动开启";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "电池电量";
 
-"APPS_MANAGER" = "Apps Manager";
-"APPS_MANAGER_DESCRIPTION" = "Automatically quit all apps on appswitcher when entering ultra power saving mode.";
-"APPS_MANAGER_ENABLED" = "Quit Apps Enabled";
+"APPS_MANAGER" = "应用管理";
+"APPS_MANAGER_DESCRIPTION" = "进入超级省电模式时，自动退出后台所有应用程序。";
+"APPS_MANAGER_ENABLED" = "开启关闭后台应用";
 
-"FLASHLIGHT" = "Flashlight";
-"FLASHLIGHT_DESCRIPTION" = "Use flashlight while power-saving battery. Please keep in mind, using flashlight for a long time can decrease your battery life quite significant.";
-"FLASHLIGHT_ENABLED" = "Flashlight Enabled";
+"FLASHLIGHT" = "手电筒";
+"FLASHLIGHT_DESCRIPTION" = "在省电时开启手电筒。请记住，长时间使用手电筒会大大降低电池寿命。";
+"FLASHLIGHT_ENABLED" = "开启手电筒";
 
-"ALARM_TIMER_MANAGER" = "Alarm / Timer Manager";
-"ALARM_TIMER_MANAGER_DESCRIPTION" = "Allow alarm or timer to ring when inside ultra power saving mode. You can snooze by pressing volume up, and stop by pressing volume down.";
-"ALARM_ENABLED" = "Alarm Enabled";
-"TIMER_ENABLED" = "Timer Enabled";
-"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "Custom Volume";
-"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "Volume Value";
+"ALARM_TIMER_MANAGER" = "闹钟/计时器管理";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "在超级省电模式下，允许闹钟或计时器响铃。您可以通过音量加按键来贪睡，通过音量减按键来停止。";
+"ALARM_ENABLED" = "开启闹钟";
+"TIMER_ENABLED" = "开启计时器";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "自定义音量";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "音量";
 
-"ANIMATION_DURATION" = "Animation Duration";
-"ANIMATION_DURATION_DESCRIPTION" = "Configure animation duration when entering ultra power saving mode. Default 2.0, set to 0 if you want to enter ultra power saving mode immediately.";
-"ANIMATION_DURATION_VALUE" = "Animation Duration";
+"ANIMATION_DURATION" = "动画时长";
+"ANIMATION_DURATION_DESCRIPTION" = "设置进入超级省电模式时的动画持续时间。默认值2.0，如果要立即进入超级省电模式，则设置为0。";
+"ANIMATION_DURATION_VALUE" = "动画时长";
 
-"HAPTIC_FEEDBACK" = "Haptic Feedback (iPhone 6S and newer)";
-"HAPTIC_FEEDBACK_DESCRIPTION" = "Vibrate the device using haptic feedback when the device has sucessfully enter or left ultra power saving mode.";
-"HAPTIC_FEEDBACK_ENABLED" = "Haptic Enabled";
-"HAPTIC_FEEDBACK_TYPE" = "Haptic Type";
-"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "Test Haptic Vibration";
-"HAPTIC_FEEDBACK_TYPE_ONE" = "Type 1";
-"HAPTIC_FEEDBACK_TYPE_TWO" = "Type 2";
-"HAPTIC_FEEDBACK_TYPE_THREE" = "Type 3";
+"HAPTIC_FEEDBACK" = "振动反馈（iPhone 6S及更高版本）";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "当设备成功进入或退出超省电模式时，振动设备。";
+"HAPTIC_FEEDBACK_ENABLED" = "开启振动";
+"HAPTIC_FEEDBACK_TYPE" = "振动类型";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "测试振动模式";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "模式1";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "模式2";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "模式3";
 
-"VIBRATION_FEEDBACK" = "Vibration Feedback (iPhone 6 and older)";
-"VIBRATION_FEEDBACK_DESCRIPTION" = "Only enable this if your device doesn't support haptic feedback or you want to use this kind of vibration, and make sure your vibration setting is on.";
-"VIBRATION_FEEDBACK_ENABLED" = "Use Legacy Vibration";
-"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "Test Legacy Vibration";
+"VIBRATION_FEEDBACK" = "振动反馈（iPhone 6和更早版本）";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "仅在设备不支持触觉反馈或要使用这种振动时才启用此功能，并确保您的振动设置已启用。";
+"VIBRATION_FEEDBACK_ENABLED" = "使用旧版振动";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "测试旧版振动";
 
-"OPTIONAL_INTEGRATION" = "Optional Integration";
-"OPTIONAL_INTEGRATION_DESCRIPTION" = "Speak device state with local / siri voices, activate power saving mode remotely, speaker automation and more useful options!";
-"OPTIONAL_INTEGRATION_CHATSPEAKER" = "ChatSpeaker Integration";
+"OPTIONAL_INTEGRATION" = "可选集成";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "用本地/ Siri语音朗读出设备状态，远程激活省电模式，自动朗读以及更多好用的选项！";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "ChatSpeaker";
 
-"EXTRA" = "Extra";
-"EXTRA_DONATION" = "Donation";
-"EXTRA_PACKAGE_INFORMATION" = "Package Information";
+"EXTRA" = "其他";
+"EXTRA_DONATION" = "捐赠";
+"EXTRA_PACKAGE_INFORMATION" = "软件包信息";
 
-"SUPPORT" = "Support";
-"SUPPORT_SEND_AN_EMAIL" = "Send an Email";
-"SUPPORT_ASK_VIA_TWITTER" = "Ask via Twitter";
-"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "Copy EDID to Clipboard";
+"SUPPORT" = "支持";
+"SUPPORT_SEND_AN_EMAIL" = "发送邮件";
+"SUPPORT_ASK_VIA_TWITTER" = "通过Twitter咨询";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "复制EDID到剪切板";
