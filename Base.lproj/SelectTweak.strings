@@ -1,9 +1,9 @@
 /*
     UltraPowerSavingMode
-    Language: English
-    Translated by @prasadev_
-    Date: 03 April 2020
+    Language: Chinese
+    Translated by @yang_harapeko
+    Date: 05 April 2020
 */
 
-"SELECT_TWEAK_TITLE" = "Select Tweak";
-"SELECT_TWEAK" = "Select tweak to disable";
+"SELECT_TWEAK_TITLE" = "选择插件";
+"SELECT_TWEAK" = "选择准备禁用的插件";
