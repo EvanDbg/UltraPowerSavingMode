@@ -1,5 +1,5 @@
 # UltraPowerSavingMode
-Localization for UltraPowerSavingMode
+Localization for UltraPowerSavingMode In Chinese
 
 # Already translated / available languages
 English, Bahasa Indonesia, Japanese, Turkish
